@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "夜明け",
+  "base_artist": "ハンバート ハンバート",
+  "createdAt": "2025-12-07T04:04:14.667871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜明け～朝ごはんの歌",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/01_夜明け~朝ごはんの歌_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜明け~朝ごはんの歌(コクリコ坂から)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/02_夜明け~朝ごはんの歌(コクリコ坂から)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜明け ～ 朝ごはんの歌",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/03_夜明け_~_朝ごはんの歌_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ふたりのDAY BREAK (夜明け)",
+      "artist": "真子 & 沙雪 (根谷美智子 & かかずゆみ)",
+      "has_synced": false,
+      "path": "select/04_ふたりのDAY_BREAK_(夜明け)_真子_&_沙雪_(根谷美智子_&_かかずゆみ).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ふたりのDAY BREAK (夜明け)",
+      "artist": "佐藤真子 & 沙雪 (根谷美智子 & かかずゆみ)",
+      "has_synced": false,
+      "path": "select/05_ふたりのDAY_BREAK_(夜明け)_佐藤真子_&_沙雪_(根谷美智子_&_かかずゆみ).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜明け",
+      "artist": "松山千春",
+      "has_synced": true,
+      "path": "select/06_夜明け_松山千春.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜明け～朝ごはんの歌(コクリコ坂から)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/07_夜明け~朝ごはんの歌(コクリコ坂から)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜明け",
+      "artist": "mzsrz",
+      "has_synced": true,
+      "path": "select/08_夜明け_mzsrz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夜明け",
+      "artist": "Hello Sleepwalkers",
+      "has_synced": true,
+      "path": "select/09_夜明け_Hello_Sleepwalkers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ふたりのDAY BREAK (夜明け)",
+      "artist": "佐藤真子",
+      "has_synced": false,
+      "path": "select/10_ふたりのDAY_BREAK_(夜明け)_佐藤真子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明け",
+      "artist": "ハンバート ハンバート",
+      "has_synced": false,
+      "path": "select/pl_01_夜明け_ハンバート_ハンバート.txt"
+    }
+  ]
+}
